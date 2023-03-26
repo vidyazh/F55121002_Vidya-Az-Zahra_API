@@ -1,0 +1,44 @@
+[
+    {
+      "id_book":1,
+      "title": "It Ends with Us",
+      "publisher": "Atria Books",
+      "writer": "Colleen Hoover",
+      "genre": "romance, fiction"
+    },
+    {
+      "id_book":2,
+      "title": "It Starts with Us",
+      "publisher": "Atria Books",
+      "writer": "Colleen Hoover",
+      "genre": "romance, new adult fiction"
+    },
+    {
+      "id_book":3,
+      "title": "Ugly Love",
+      "publisher": "Atria Books",
+      "writer": "Colleen Hoover",
+      "genre": "romance, fiction"
+    },
+    {
+      "id_book":4,
+      "title": "The Love Hypothesis",
+      "publisher": "Berkley Books",
+      "writer": "Ali Hazelwood",
+      "genre": "romance, fiction"
+    },
+    {
+      "id_book":5,
+      "title": "Love on the Brain",
+      "publisher": "Berkley Books",
+      "writer": "Ali Hazelwood",
+      "genre": "romance, fiction"
+    },
+    {
+      "id_book":6,
+      "title": "The Spanish Love Deception",
+      "publisher": "Berkley Books",
+      "writer": "Ali Hazelwood",
+      "genre": "romance, fiction"
+    }
+]
